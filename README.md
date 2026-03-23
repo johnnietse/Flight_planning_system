@@ -1,6 +1,6 @@
 # Flight Planning System
 
-A C-based flight planning and management system developed for ELEC 278 (Data Structures and Algorithms). This project allows users to manage airports, waypoints, aircraft types, and create detailed flight plans including departure/arrival information and intermediate waypoints.
+A C-based flight planning and management system developed for Data Structures and Algorithms. This project allows users to manage airports, waypoints, aircraft types, and create detailed flight plans including departure/arrival information and intermediate waypoints.
 
 ## Features
 
